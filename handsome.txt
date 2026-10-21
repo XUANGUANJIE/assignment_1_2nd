@@ -1,2 +1,6 @@
 Created on main brunch at 4:29pm.
+<<<<<<< HEAD
 handsome feels handsome in main branch at 444pm.
+=======
+pretty likes handsome in pretty branch at 4:39pm
+>>>>>>> pretty
